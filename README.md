@@ -20,8 +20,7 @@ Start a listener first if its windows (i like to use `sudo rlwrap nc -lnvp 443`)
 
 ## PoC
 
-<img width="1176" height="641" alt="image" src="https://github.com/user-attachments/assets/4a0c4d25-f655-49f9-8f1f-08b2ff8a1a2f" />
-
+<img width="1066" height="372" alt="image" src="https://github.com/user-attachments/assets/d704ef2d-1994-45ac-861c-38bd384a92af" />
 
 ## Disclaimer
 
